@@ -1,3 +1,5 @@
+#LAUNCHING AWS INFRASTRUCTURE USING TERRAFORM
+
 1. Create the key and security group which allow the port 80.
 
 2. Launch EC2 instance.
