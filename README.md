@@ -1,4 +1,4 @@
-<b><h1>LAUNCHING AWS INFRASTRUCTURE USING TERRAFORM <h1><b>
+<b><h1>LAUNCHING AWS INFRASTRUCTURE USING TERRAFORM </h1></b>
 
 1. Create the key and security group which allow the port 80.
 
