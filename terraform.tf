@@ -1,5 +1,4 @@
-<html>
-<body>
+
 #---------------------------------selecting our region for instance---------------------------------------------------------------
 provider "aws" {
 region = "ap-south-1"
@@ -256,7 +255,3 @@ resource "aws_cloudfront_distribution" "s3_distribution" {
 		  }
 }
  
-
-
-</body>
-</html>
