@@ -159,11 +159,11 @@
 
 ## 8 Create a Cloudfront using s3 bucket(which contains images) and use the Cloudfront URL to update in code in /var/www/html
 
-<img src = "https://github.com/lekhika13/awscloud/blob/master/terra/4.png" >
+<img src = "https://github.com/lekhika13/awscloud/blob/master/terra/4.png/" >
 
 <b>HERE I HAVE USED CODEPIPELINE WITH TERRAFORM:<b>
 
-<img src = "https://github.com/lekhika13/awscloud/blob/master/terra/5.png">
+<img src = "https://github.com/lekhika13/awscloud/blob/master/terra/5.png/">
 
  #----------------------------------creating code pipeline-----------------------
         
@@ -261,7 +261,7 @@
         }
 
 
-# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/6.png">
+# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/6.png/">
 
 
 #----------------------------------creating web distribution---------------------
@@ -312,13 +312,13 @@
 
 ## OUTPUTS:
 
-# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/7.png" >
+# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/7.png/" >
 
-# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/8.png">
+# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/8.png/">
 
-# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/9.png">
+# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/9.png/">
 
-# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/10.png">
+# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/10.png/">
 
 
 # THANKYOU!!!
