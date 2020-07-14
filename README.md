@@ -1,10 +1,8 @@
-<b><h1>LAUNCHING AWS INFRASTRUCTURE USING TERRAFORM </h1></b>
+# LAUNCHING AWS INFRASTRUCTURE USING TERRAFORM 
 
-1. Create the key and security group which allow the port 80.
-
-2. Launch EC2 instance.
-
-3. In this Ec2 instance use the key and security group which we have created in step 1.
+## 1. Create the key and security group which allow the port 80.
+## 2. Launch EC2 instance.
+## 3. In this Ec2 instance use the key and security group which we have created in step 1.
 
     ---------------------------------selecting our region for instance---------------
 
@@ -45,10 +43,10 @@
           }
 
       }
-<img src = "/terra/1.png">
+<img src = "https://github.com/lekhika13/awscloud/blob/master/terra/1.png">
 
 
-4. Launch one Volume (EBS) and mount that volume into /var/www/html
+## 4. Launch one Volume (EBS) and mount that volume into /var/www/html
 
       #------------------------------------------launching ebs volume-------------------
 
@@ -76,14 +74,15 @@
 
         }
 
-<img src = "/terra/2.png">
-5. Developer have uploded the code into github repo also the repo has some images.
+<img src = "https://github.com/lekhika13/awscloud/blob/master/terra/2.png">
 
-6. Copy the github repo code into /var/www/html
+## 5. Developer have uploded the code into github repo also the repo has some images.
 
-7. Create S3 bucket, and copy/deploy the images from github repo into the s3 bucket and change the permission to public readable.
+## 6. Copy the github repo code into /var/www/html
 
-<img src = "/terra/3.png">
+## 7. Create S3 bucket, and copy/deploy the images from github repo into the s3 bucket and change the permission to public readable.
+
+<img src = "https://github.com/lekhika13/awscloud/blob/master/terra/3.png">
 
       #--------------------------------creating s3-------------------------------------
 
@@ -158,13 +157,13 @@
         }
         
 
-8 Create a Cloudfront using s3 bucket(which contains images) and use the Cloudfront URL to update in code in /var/www/html
+## 8 Create a Cloudfront using s3 bucket(which contains images) and use the Cloudfront URL to update in code in /var/www/html
 
-<img src = "/terra/4.png" >
+<img src = "https://github.com/lekhika13/awscloud/blob/master/terra/4.png" >
 
 <b>HERE I HAVE USED CODEPIPELINE WITH TERRAFORM:<b>
 
-<img src = "/terra/5.png">
+<img src = "https://github.com/lekhika13/awscloud/blob/master/terra/5.png">
 
  #----------------------------------creating code pipeline-----------------------
         
@@ -262,7 +261,7 @@
         }
 
 
-<img src = "/terra/6.png">
+<img src = "https://github.com/lekhika13/awscloud/blob/master/terra/6.png">
 
 
 #----------------------------------creating web distribution---------------------
@@ -311,10 +310,13 @@
 		  }
     }
 
-<img src = "/terra/7.png" >
+<img src = "https://github.com/lekhika13/awscloud/blob/master/terra/7.png" >
 
-<img src = "/terra/8.png">
+<img src = "https://github.com/lekhika13/awscloud/blob/master/terra/8.png">
 
-<img src = "/terra/9.png">
+<img src = "https://github.com/lekhika13/awscloud/blob/master/terra/9.png">
 
-<img src = "/terra/10.png">
+<img src = "https://github.com/lekhika13/awscloud/blob/master/terra/10.png">
+
+
+# THANKYOU!!!
