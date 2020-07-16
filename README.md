@@ -263,8 +263,7 @@
           }
         }
 
-
-# <img src = "terra/6.png/">
+<img src = "terra/6.png/">
 
 
 #----------------------------------creating web distribution---------------------
@@ -315,13 +314,13 @@
 
 ## OUTPUTS:
 
-# <img src = "terra/7.png/" >
+<img src = "terra/7.png/" >
 
-# <img src = "terra/8.png/">
+<img src = "terra/8.png/">
 
-# <img src = "terra/9.png/">
+<img src = "terra/9.png/">
 
-# <img src = "terra/10.png/">
+<img src = "terra/10.png/">
 
 
 # THANKYOU!!!
