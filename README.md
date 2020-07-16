@@ -43,7 +43,7 @@
           }
 
       }
-# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/1.png">
+# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/1.png/">
 
 
 ## 4. Launch one Volume (EBS) and mount that volume into /var/www/html
@@ -74,7 +74,7 @@
 
         }
 
-# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/2.png">
+# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/2.png/">
 
 ## 5. Developer have uploded the code into github repo also the repo has some images.
 
@@ -82,7 +82,7 @@
 
 ## 7. Create S3 bucket, and copy/deploy the images from github repo into the s3 bucket and change the permission to public readable.
 
-# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/3.png">
+# <img src = "https://github.com/lekhika13/awscloud/blob/master/terra/3.png/">
 
       #--------------------------------creating s3-------------------------------------
 
