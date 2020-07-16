@@ -45,7 +45,7 @@
       }
       
       
-<img src = "terra/1.png/">
+<img src = "terra/1.png">
 
 
 ## 4. Launch one Volume (EBS) and mount that volume into /var/www/html
@@ -77,7 +77,7 @@
         }
 
 
-<img src = "terra/2.png/">
+<img src = "terra/2.png">
 
 ## 5. Developer have uploded the code into github repo also the repo has some images.
 
@@ -85,7 +85,7 @@
 
 ## 7. Create S3 bucket, and copy/deploy the images from github repo into the s3 bucket and change the permission to public readable.
 
-<img src = "terra/3.png/">
+<img src = "terra/3.png">
 
       #--------------------------------creating s3-------------------------------------
 
@@ -162,11 +162,11 @@
 
 ## 8 Create a Cloudfront using s3 bucket(which contains images) and use the Cloudfront URL to update in code in /var/www/html
 
-<img src = "terra/4.png/" >
+<img src = "terra/4.png" >
 
 <b>HERE I HAVE USED CODEPIPELINE WITH TERRAFORM:<b>
 
-<img src = "terra/5.png/">
+<img src = "terra/5.png">
 
  #----------------------------------creating code pipeline-----------------------
         
@@ -263,7 +263,7 @@
           }
         }
 
-<img src = "terra/6.png/">
+<img src = "terra/6.png">
 
 
 #----------------------------------creating web distribution---------------------
@@ -314,13 +314,13 @@
 
 ## OUTPUTS:
 
-<img src = "terra/7.png/" >
+<img src = "terra/7.png" >
 
-<img src = "terra/8.png/">
+<img src = "terra/8.png">
 
-<img src = "terra/9.png/">
+<img src = "terra/9.png">
 
-<img src = "terra/10.png/">
+<img src = "terra/10.png">
 
 
 # THANKYOU!!!
